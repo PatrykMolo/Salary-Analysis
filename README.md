@@ -74,8 +74,10 @@ FROM salary_data_filtered
 WHERE gender NOT LIKE 'other'
 GROUP BY gender 
   ```
-## Data visualization using PowerBi tool
+## Data visualization using PowerBI tool
 
-I've chosen po pick PowerBI to create short and comprahensive dashboard describing my findings. 
+I've chosen po pick PowerBI to create short and comprehensive dashboard describing my findings. 
 Dashboard contains bar charts about the best/worst paying jobs, scatter chart describing correlation of experience and salary,
-combination of donut and tornado chart to show data regarding genders and a summary card 
+combination of donut and tornado chart to show data regarding genders and a summary card.
+
+![](Salarydashboard.png)
