@@ -76,7 +76,7 @@ GROUP BY gender
   ```
 ## Data visualization using PowerBI tool
 
-I've chosen po pick PowerBI to create short and comprehensive dashboard describing my findings. 
+I've chosen to pick PowerBI to create short and comprehensive dashboard describing my findings. 
 Dashboard contains bar charts about the best/worst paying jobs, scatter chart describing correlation of experience and salary,
 combination of donut and tornado chart to show data regarding genders and a summary card.
 
